@@ -61,6 +61,7 @@ Build/*/**
 !Build/**/*.ico
 
 # Built data for maps
+# add * to ignore, add ! to whitelist
 #*_BuiltData.uasset
 !_BuiltData.uasset
 
